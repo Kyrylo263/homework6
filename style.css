@@ -1,0 +1,75 @@
+.webstudio {
+    text-decoration: none;
+    color: black;
+}
+
+span {
+    color: blue;
+}
+
+.studio {
+    color: blue;
+    text-decoration: none;
+}
+
+.email {
+    color: blue;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+.portfolio {
+    text-decoration: none;
+}
+
+.kontakty {
+    text-decoration: none;
+}
+
+header>ul {
+    list-style: none;
+}
+
+#button {
+    width: 170px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border: none;
+}
+
+.section>ul {
+    list-style: none;
+}
+
+.section>ul>li>h3 {
+    font-size: 14px;
+}
+
+.robota {
+    font-size: 34px;
+}
+
+.section2>ul {
+    list-style: none;
+}
+
+.section3>ul {
+    list-style: none;
+}
+
+.webstudio2 {
+    text-decoration: none;
+    color: black;
+}
+
+footer>ul>li {
+    list-style: none;
+}
+
+.adress, .email2, .tel {
+    text-decoration: none;
+    color: black;
+}
